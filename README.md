@@ -65,15 +65,27 @@ mvn spring-boot:run
 
 ### Main menu
 
+![Main menu](https://i.postimg.cc/MpZcqh95/menu.png)
+
 ### Find Book by Title
+
+![Book by Title menu](https://i.postimg.cc/5NVgq2tt/book-title.png)
 
 ### List all Books
 
+![List all Books screen](https://i.postimg.cc/xdnVw2gj/all-books.png)
+
 ### List all Authors
+
+![List all Authors screen](https://i.postimg.cc/fTYwpBZK/authors.png)
 
 ### Authors Alive at Specific Year
 
+![Authors Alive at Specific Year menu](https://i.postimg.cc/PqwKQp1P/year.png)
+
 ### Books by Language
+
+![Books by Languages menu](https://i.postimg.cc/L5Czp2jc/language.png)
 
 ## Acknowledgments
 
